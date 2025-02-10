@@ -97,6 +97,4 @@ PerfStat.testPassed(r1_old === r1_new);
 PerfStat.testPassed(r2_old === r2_new);
 PerfStat.testPassed(r3_old === r3_new);
 
-
-
-
+// Résultat: fonction optimisée !
